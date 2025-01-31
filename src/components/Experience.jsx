@@ -102,8 +102,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'resume link', //paste the link to your resume here
-                  '_blank'
+                  'https://www.canva.com/design/DAGdwXgmrGM/UCyvbC-5IuUskQjoI-RPsw/edit?utm_content=DAGdwXgmrGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton', //paste the link to your resume here
                 )
               }
               onMouseOver={() => {
